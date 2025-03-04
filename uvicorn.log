@@ -1,0 +1,15 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/opt/vpn-api']
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     Started reloader process [510362] using StatReload
+INFO:     Started server process [510364]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     94.20.141.229:44442 - "GET /get-config?user_email=user3@example.co HTTP/1.1" 200 OK
+INFO:     176.98.40.16:59128 - "GET /get-config?user_email=user3@example.com HTTP/1.1" 200 OK
+INFO:     176.98.40.16:57524 - "GET /get-config?user_email=user3@example.com HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [510364]
+INFO:     Stopping reloader process [510362]
